@@ -1,3 +1,9 @@
+#The code is written and developed by Mehemmed AC
+
+#My Instagram Page : mehemmed_ac
+#My Email : mehemmedac@gmail.com
+#My Web Page : mehemmedac.ga
+
 import matplotlib.pyplot as plt
 import numpy as np
 
